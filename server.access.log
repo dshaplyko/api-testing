@@ -1,0 +1,4 @@
+Server is running on 7001 port...
+[0mGET / [32m200 [0m13.153 ms - -[0m
+[0mGET / [32m200 [0m2.386 ms - 1502[0m
+[0mGET /api/db [32m200 [0m121.034 ms - 1298183[0m
